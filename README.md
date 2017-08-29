@@ -1,3 +1,5 @@
+#### Responsible Team: Design Systems
+
 vertical-collection
 =================
 
